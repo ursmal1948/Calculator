@@ -1,0 +1,21 @@
+{
+    "obj1": {
+        "operator":"mul",
+        "value1":12,
+        "value2":3
+    },
+    "obj2": {
+        "operator":"add",
+        "value1":10,
+        "value2":30
+    },
+    "obj3": {
+        "operator":"sqrt",
+        "value1":36
+    },
+    "obj4": {
+        "operator":"sub",
+        "value1":5,
+        "value2":15
+    }
+}

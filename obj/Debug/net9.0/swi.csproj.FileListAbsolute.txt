@@ -1,0 +1,17 @@
+/Users/dev/Desktop/FINAL SUBMISSION/swi/bin/Debug/net9.0/swi
+/Users/dev/Desktop/FINAL SUBMISSION/swi/bin/Debug/net9.0/swi.deps.json
+/Users/dev/Desktop/FINAL SUBMISSION/swi/bin/Debug/net9.0/swi.runtimeconfig.json
+/Users/dev/Desktop/FINAL SUBMISSION/swi/bin/Debug/net9.0/swi.dll
+/Users/dev/Desktop/FINAL SUBMISSION/swi/bin/Debug/net9.0/swi.pdb
+/Users/dev/Desktop/FINAL SUBMISSION/swi/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/swi.csproj.AssemblyReference.cache
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/swi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/swi.AssemblyInfoInputs.cache
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/swi.AssemblyInfo.cs
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/swi.csproj.CoreCompileInputs.cache
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/swi.csproj.Up2Date
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/swi.dll
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/refint/swi.dll
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/swi.pdb
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/swi.genruntimeconfig.cache
+/Users/dev/Desktop/FINAL SUBMISSION/swi/obj/Debug/net9.0/ref/swi.dll
